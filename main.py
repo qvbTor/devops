@@ -61,7 +61,6 @@ config_changes = """
 <config>
     <interfaces xmlns="urn:ietf:params:xml:ns:netconf:base:1.0">
         <interface>
-            <name>GigabitEthernet0/1</name>
             <enabled>true</enabled>
         </interface>
     </interfaces>
